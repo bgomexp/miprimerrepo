@@ -14,7 +14,7 @@ public class Calculadora {
 		return a+b;
 	}
 	
-	//Método que toma dos enteros como parámetros y resta el segundo al primero.
+	//Método que toma dos enteros como parámetros y resta el segundo al primero.....
 	public static int restar(int a, int b){
 		return a-b;
 	}
